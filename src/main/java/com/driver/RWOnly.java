@@ -11,6 +11,10 @@ public class RWOnly {
         return name;
     }
 
+    public RWOnly() {
+
+    }
+
     public void setName(String name) {
         this.name = name;
     }
